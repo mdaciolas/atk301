@@ -1,0 +1,55 @@
+body { background-image:url(paper.jpeg);
+  color: black;
+  text-align: center;
+  font-family: helvetica;
+
+ }
+
+ .class1 {
+     font-size: 2em;
+     line-height: 0;
+     text-align: center;
+     font-family: helvetica;
+
+ }
+
+.title {
+  font-size: 3em;
+  line-height: 0;
+  text-align: center;
+  font-family: helvetica;
+}
+
+.class2 {
+  font-size: 2em;
+  line-height: 1;
+  font-family: helvetica;
+}
+
+.bottom {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.top {
+  border-bottom: .5px solid;
+  width: fit-content;
+  margin: 0px auto 0px auto;
+  font-size: 2em;
+}
+
+.blue {
+  color: #43a0ea;
+}
+
+.head {
+  border-bottom: .5px solid;
+  width: fit-content;
+  margin: 0px auto 0px auto;
+  font-size: 2em;
+}
+
+#link{
+  color: blue;
+  text-decoration: none;
+}

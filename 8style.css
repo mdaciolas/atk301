@@ -1,0 +1,81 @@
+body{
+  background-image: url(8_pic1.jpg);
+  font-family: helvetica;
+}
+
+div{
+  background-color: white;
+  margin: 50px;
+  border: 2px solid black;
+  width: 960px;
+}
+
+header{
+  background-color: black;
+  color: white;
+  margin: 10px;
+  height: 40px;
+}
+
+h1{
+  padding: 5px;
+}
+
+nav{
+  float: left;
+}
+
+main{
+  width: 710px;
+  margin-left: 230px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+img{
+  float: left;
+  width: 500px;
+  border: 2px solid black;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+h2{
+  border-bottom: 2px solid black;
+}
+
+li{
+background-color: red;
+margin: 10px;
+padding: 10px;
+color: white;
+width: 190px;
+}
+
+li:hover {
+  background-color: black;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  list-style-type: none;
+}
+
+ul{
+  list-style-type: none;
+  grid-column: span 3;
+}
+
+.red{
+  color: red;
+  font-weight: bold;
+}
+
+footer{
+  font-style: italic;
+  background-color: red;
+  color: white;
+  border: 2px solid black;
+  grid-column: span 12;
+}
